@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## About Me<br><br>🔭 **I'm currently working on**<br>GeoCore, DronOps, secure network infrastructure, and drone telemetry mapping systems at PowerX.<br><br>👯 **I'm looking to collaborate on**<br>Cybersecurity projects, UAV security, network engineering, open-source tools, and AI-powered systems.<br><br>🤝 **I'm looking for help with**<br>Advanced cybersecurity, secure system architecture, cloud infrastructure, and real-time UAV telemetry processing.<br><br>🌱 **I'm currently learning**<br>Network security, penetration testing, intrusion detection using machine learning, secure system design, and drone communication protocols.<br><br>💬 **Ask me about**<br>Cybersecurity, networking, Linux, firewalls, network infrastructure, UAV security, and my journey building real-world systems.<br><br>⚡ **Fun fact**<br>I'm exploring how to make drones smarter and more secure while working toward making complex systems easier to understand and build.<br>
 
 

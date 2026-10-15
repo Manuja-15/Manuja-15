@@ -24,7 +24,7 @@ Cyber security student with a habit of testing limits. I find out how things bre
   <tr>
     <td align="right"><sub>security</sub></td>
     <td>
-      <img src="assets/icons/kali.png" alt="kali" height="48" /> <img src="assets/icons/burp.png" alt="burp suite" height="48" /> <img src="assets/icons/wireshark.png" alt="wireshark" height="48" /> <img src="assets/icons/metasploit.png" alt="metasploit" height="48" /> <img src="assets/icons/nmap.svg" alt="nmap" height="48" /> <img src="assets/icons/ghidra.png" alt="ghidra" height="48" /> <img src="assets/icons/exploitdb.png" alt="exploit-db" height="48" />
+      <img src="assets/icons/kali.png" alt="kali" height="48" /> <img src="assets/icons/burp.png" alt="burp suite" height="48" /> <img src="assets/icons/wireshark.png" alt="wireshark" height="48" /> <img src="assets/icons/metasploit.png" alt="metasploit" height="48" /> <img src="assets/icons/nmap.png" alt="nmap" height="48" /> <img src="assets/icons/ghidra.png" alt="ghidra" height="48" /> <img src="assets/icons/exploitdb.png" alt="exploit-db" height="48" />
     </td>
   </tr>
   <tr>

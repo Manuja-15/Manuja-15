@@ -24,19 +24,19 @@ Cyber security student with a habit of testing limits. I find out how things bre
   <tr>
     <td align="right"><sub>security</sub></td>
     <td>
-      <img src="assets/icons/kali.svg" alt="kali" height="48" /> <img src="assets/icons/burp.svg" alt="burp suite" height="48" /> <img src="assets/icons/wireshark.svg" alt="wireshark" height="48" /> <img src="assets/icons/metasploit.svg" alt="metasploit" height="48" /> <img src="assets/icons/nmap.svg" alt="nmap" height="48" /> <img src="assets/icons/ghidra.svg" alt="ghidra" height="48" /> <img src="assets/icons/exploitdb.svg" alt="exploit-db" height="48" />
+      <img src="assets/icons/kali.png" alt="kali" height="48" /> <img src="assets/icons/burp.png" alt="burp suite" height="48" /> <img src="assets/icons/wireshark.png" alt="wireshark" height="48" /> <img src="assets/icons/metasploit.png" alt="metasploit" height="48" /> <img src="assets/icons/nmap.svg" alt="nmap" height="48" /> <img src="assets/icons/ghidra.png" alt="ghidra" height="48" /> <img src="assets/icons/exploitdb.png" alt="exploit-db" height="48" />
     </td>
   </tr>
   <tr>
     <td align="right"><sub>uav</sub></td>
     <td>
-      <img src="assets/icons/mavlink.svg" alt="mavlink" height="48" /> <img src="assets/icons/ardupilot.svg" alt="ardupilot" height="48" /> <img src="assets/icons/px4.svg" alt="px4" height="48" /> <img src="assets/icons/qgc.svg" alt="qgroundcontrol" height="48" /> <img src="assets/icons/pix4d.svg" alt="pix4d" height="48" /> <img src="assets/icons/qgis.svg" alt="qgis" height="48" />
+      <img src="assets/icons/mavlink.png" alt="mavlink" height="48" /> <img src="assets/icons/ardupilot.png" alt="ardupilot" height="48" /> <img src="assets/icons/px4.png" alt="px4" height="48" /> <img src="assets/icons/qgc.png" alt="qgroundcontrol" height="48" /> <img src="assets/icons/pix4d.png" alt="pix4d" height="48" /> <img src="assets/icons/qgis.png" alt="qgis" height="48" />
     </td>
   </tr>
   <tr>
     <td align="right"><sub>ai</sub></td>
     <td>
-      <img src="assets/icons/huggingface.svg" alt="hugging face" height="48" /> <img src="assets/icons/ollama.svg" alt="ollama" height="48" />
+      <img src="assets/icons/huggingface.png" alt="hugging face" height="48" /> <img src="assets/icons/ollama.png" alt="ollama" height="48" />
     </td>
   </tr>
   <tr>
